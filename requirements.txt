@@ -31,7 +31,7 @@ torchvision
 requests
 tb-nightly
 future
-tensorflow==1.14.0
+tensorflow==1.15.2
 opencv-python
 opencv-contrib-python
 albumentations
