@@ -25,7 +25,7 @@ xlrd==1.2.0
 transliterate==1.10.2
 pygal==2.0.2
 statsmodels==0.10.1
-Pillow==6.2.1
+Pillow==8.1.1
 torch
 torchvision
 requests
